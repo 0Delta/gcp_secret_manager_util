@@ -1,4 +1,4 @@
-module 0Delta/gcp_secret_manager_util
+module github.com/0Delta/gcp_secret_manager_util
 
 go 1.16
 
